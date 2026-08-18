@@ -49,7 +49,7 @@ resistance_report.csv
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/influenza-variant-analyzer.git
+   git clone https://github.com/dariolobo/influenza-variant-analyzer.git
    cd influenza-variant-analyzer
    ```
 
